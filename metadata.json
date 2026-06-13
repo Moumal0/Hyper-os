@@ -1,0 +1,6 @@
+{
+  "name": "Hyprland Mobile Arabic Launcher",
+  "description": "An interactive Wayland-inspired Linux phone launcher with full Arabic support, Hijri dual-calendar, Hyprland custom widgets, gesture controls, and production-ready GTK4 config exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
